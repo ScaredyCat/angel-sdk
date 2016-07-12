@@ -1,9 +1,9 @@
 
 
-This is forked because the Angel Sensor team shafted their backers and deleted their social media presence completely. This is here in case they decide to delete the code that was made available originally. No code work will take place on this fork - My angel never arrived so I can't test anything.
-
-
-
+This is forked because the Angel Sensor team (Seraphim Sense Ltd) shafted their backers and deleted their social media presence completely. This is here in case they decide to delete the code that was made available originally. No code work will take place on this fork - My angel never arrived so I can't test anything.
+  
+  
+   
 
 
 
